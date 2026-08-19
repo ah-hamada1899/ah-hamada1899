@@ -1,110 +1,107 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ahmed+Hamada;Front-End+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+bilingual+product+UIs" alt="Typing headline" />
+<img src="./github-profile-banner.svg" alt="Ahmed Hamada — Front-End Developer" width="100%" />
 
-<br/>
+<br />
 
-**Front-End Developer** from Giza, Egypt — I design and ship production web apps with a strong eye for UI, performance, and clean TypeScript.
+### Front-End Developer from Giza, Egypt
+Building bilingual, production-ready web apps with **React**, **Next.js**, and **TypeScript**.
 
-<br/>
+[Portfolio](https://dev-core-kappa.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmed-hamada-ah22) · [Email](mailto:ah.hamada1899@gmail.com)
 
-<a href="https://dev-core-kappa.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0F2744?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmed-hamada-ah22">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/ah-hamada1899">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:ah.hamada1899@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br />
 
-<br/><br/>
+![Profile views](https://komarev.com/ghpvc/?username=ah-hamada1899&label=Profile%20views&color=0F2744&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=ah-hamada1899&label=Profile%20views&color=0F2744&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-Front--End%20roles-238636?style=for-the-badge" alt="Open to work"/>
+</div>
 
+## Popular repositories
+
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
+  <div style="min-width:320px; max-width:420px; flex:1; border:1px solid #1F4E79; border-radius:16px; padding:16px; background:#ffffff;">
+    <h3 style="margin:0 0 6px 0;">LOS REYES Tourism</h3>
+    <p style="margin:0 0 10px 0; color:#334155;">Tourism website for Egypt with destination/experience routing, trip planning, inquiry flow, and booking emails.</p>
+    <p style="margin:0 0 10px 0;"><b>Stack:</b> Next.js, TypeScript, i18n, Framer Motion, Resend</p>
+    <p style="margin:0;"><a href="https://github.com/ah-hamada1899/LOS-REYES-Tourism">Repo</a></p>
+  </div>
+
+  <div style="min-width:320px; max-width:420px; flex:1; border:1px solid #1F4E79; border-radius:16px; padding:16px; background:#ffffff;">
+    <h3 style="margin:0 0 6px 0;">Sales Analytics Dashboard</h3>
+    <p style="margin:0 0 10px 0; color:#334155;">Interactive dashboard with bar/line/pie charts, year & threshold filters, mock/API toggle, atomic design, and dark mode.</p>
+    <p style="margin:0 0 10px 0;"><b>Stack:</b> Next.js, TypeScript, Recharts, Tailwind CSS</p>
+    <p style="margin:0;"><a href="https://sales-dashboard-six-steel.vercel.app">Live</a> · <a href="https://github.com/ah-hamada1899/sales-dashboard">Repo</a></p>
+  </div>
+
+  <div style="min-width:320px; max-width:420px; flex:1; border:1px solid #1F4E79; border-radius:16px; padding:16px; background:#ffffff;">
+    <h3 style="margin:0 0 6px 0;">dev-core Portfolio</h3>
+    <p style="margin:0 0 10px 0; color:#334155;">Portfolio site with projects, skills, and contact. Clean UI + performance-focused React.</p>
+    <p style="margin:0 0 10px 0;"><b>Stack:</b> Next.js, TypeScript, Tailwind CSS</p>
+    <p style="margin:0;"><a href="https://dev-core-kappa.vercel.app">Live</a> · <a href="https://github.com/ah-hamada1899/dev-core">Repo</a></p>
+  </div>
 </div>
 
 ---
 
 ## About me
 
-I build **bilingual (AR / EN, RTL)** product interfaces that feel fast, clear, and easy to use.
+I am a **Front-End Developer** focused on clean UI, performance, and maintainable TypeScript.
 
-- Working at **Ellwaa Software** (Hybrid) on Next.js websites, dashboards, CRM, and Arabic HR portals
-- Previously at **Springer Capital** (Remote, US & Canada) — App Router, SSR / SSG / ISR, Core Web Vitals
-- Strong in React, TypeScript, Tailwind, TanStack Query, Zustand, and accessible UI
-- I care about readable code, pixel-aware layouts, and shipping work that people actually enjoy using
+- Currently at **Ellwaa Software** (Hybrid, Giza) — shipping bilingual AR/EN product UIs, dashboards, and CRM tools
+- Previously at **Springer Capital** (Remote, US & Canada) — Next.js App Router, SSR/SSG/ISR, Core Web Vitals
+- I care about readable code, accessible interfaces, and user experience that feels effortless
 - Arabic native · English fluent
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **LOS REYES** | Tourism website for Egypt — destinations, trip planning, inquiry and booking emails | Next.js, TypeScript, i18n, Framer Motion, Resend | [Repo](https://github.com/ah-hamada1899/LOS-REYES-Tourism) |
+| **Sales Analytics Dashboard** | Interactive dashboard with charts, filters, atomic design, and dark mode | Next.js, TypeScript, Recharts, Tailwind CSS | [Live](https://sales-dashboard-six-steel.vercel.app) · [Repo](https://github.com/ah-hamada1899/sales-dashboard) |
+| **dev-core** | Personal portfolio to present my work and contact | Next.js, TypeScript, Tailwind CSS | [Live](https://dev-core-kappa.vercel.app) · [Repo](https://github.com/ah-hamada1899/dev-core) |
+
+On the job I also build production front-ends for **bilingual marketing sites**, **operations dashboards**, **sales CRM**, and **Arabic RTL HR portals**.
 
 ---
 
 ## Tech stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="44" height="44" alt="Vite" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="44" height="44" alt="Redux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css,tailwind,nodejs,redux,git,github,vscode,vercel" alt="Tech stack icons" />
 </p>
 
-<p align="center">
-  <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vite</code> <code>TanStack Query</code> <code>Zustand</code> <code>Redux</code> <code>i18n</code> <code>REST APIs</code> <code>Git</code> <code>Jira</code>
-</p>
+**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React.js · Next.js (App Router) · Vite · Tailwind CSS  
+**State & data:** Redux · Zustand · Context API · TanStack Query · React Hook Form · Zod · REST APIs  
+**Quality:** ESLint · Prettier · Storybook · Git · GitHub · Jira · CI/CD · Lighthouse · Core Web Vitals
 
 ---
 
-## GitHub stats
+## GitHub snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ah-hamada1899&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-hamada1899&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ah-hamada1899&show_icons=true&theme=transparent&hide_border=true&title_color=1F4E79&icon_color=1F4E79&text_color=334155" alt="Ahmed Hamada GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-hamada1899&layout=compact&theme=transparent&hide_border=true&title_color=1F4E79&text_color=334155" alt="Top languages" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ah-hamada1899&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-</div>
+## What I am working on
+
+- Shipping bilingual product UIs and internal dashboards at Ellwaa
+- Tightening Next.js performance, accessibility, and DX
+- Open to Front-End / Next.js opportunities
 
 ---
 
 <div align="center">
 
-### Let’s build something great.
+**Let’s build something great.**
 
-<a href="mailto:ah.hamada1899@gmail.com">
-  <img src="https://img.shields.io/badge/ah.hamada1899@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://dev-core-kappa.vercel.app">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-0F2744?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+[ah.hamada1899@gmail.com](mailto:ah.hamada1899@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-hamada-ah22) · [Portfolio](https://dev-core-kappa.vercel.app)
 
 </div>
